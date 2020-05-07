@@ -24,9 +24,9 @@ run test without UI
 yarn run test
 ```
 how to access report from test without UI (make sure folder report exist (generated after run test))
-"bash
+```bash
 yarn run html-report
-"
+```
 
 run test with UI
 ```bash
