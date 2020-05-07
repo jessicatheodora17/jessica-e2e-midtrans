@@ -32,3 +32,9 @@ run test with UI
 ```bash
 yarn run test-ui
 ```
+
+## NOTES
+The test may have failed because of this following reasons : 
+  - Internet Connection
+  - Problem while loading
+If these Problems Occur, please re run the test command
