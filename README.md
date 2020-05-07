@@ -35,7 +35,6 @@ yarn run test-ui
 
 ## NOTES
 The test may have failed because of this following reasons : 
-  - Internet Connection
-  - Problem while loading
-  
+  - Slow Internet Connection
+
 If these Problems Occur, please re run the test command
